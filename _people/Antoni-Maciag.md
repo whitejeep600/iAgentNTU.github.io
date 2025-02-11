@@ -5,14 +5,14 @@ title: Antoni Maciag
 name: Antoni Maciag
 chinese_name: 馬安德
 student_id: 
-status: ongoing
+status: graduated
 program: Master student
 entry_year: 2022
-exit_year:
+exit_year: 2025
 link: true
 external_url:
 image: /people/images/antoni_maciag.jpg
-research_interests: natural language processing
+research_interests: Natural Language Processing
 show_project: false
 brief: 
 # bibsrc: /people/bibtex/chichia.bib
@@ -28,6 +28,6 @@ linkedin: https://www.linkedin.com/in/antoni-maci%C4%85g-04779b200/
 github: https://github.com/whitejeep600
 ---
 
-Greetings! I'm a Master's student at NTU CSIE, where I'm trying to do some cool research in Natural Language Processing. I don't have a thesis topic yet, though. Before coming here, I got a Bachelor's in Computer Science from the University of Warsaw. I also have experience as a Bachelor's thesis intern and Python dev.
+Greetings! I was a Master's student at iAgents lab between 2022 and 2025, when I defended my thesis: "Teaching Machines to Mislead Text Classifiers".
 
-In my spare time I make some music and try to improve my Chinese to survive living in Taipei.
+Before coming here, I got a Bachelor's in Computer Science from the University of Warsaw.
